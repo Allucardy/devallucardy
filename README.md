@@ -4,7 +4,6 @@
 [![BLOG](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allucardy&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allucardy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Minhas Tecnologias:
 
@@ -19,5 +18,3 @@
 </div><br/>
 
 Apaixonado pela inovação, tecnologia, estudos e por novos conhecimentos dentro da área da programação.
-
-##
